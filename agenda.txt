@@ -1,0 +1,9 @@
+
+
+nome: hernan
+idadde: 19
+rua: qq um
+cep: 1234897
+bairro: barra funda
+estado: sp
+tel: 22074487
